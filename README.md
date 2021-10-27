@@ -4,5 +4,5 @@ Description: Designed and implement a database for a Dental Practice. Data base 
 
 Includes:
 Entity Relationship Diagram. 
-Files contain SQL - to create, populate and query the databas.
+Files that contain SQL - to create, populate and query the database.
  
